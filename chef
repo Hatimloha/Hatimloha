@@ -1,1 +1,1 @@
-yum install chef 
+apt-get install chef 
