@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hatimloha
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps and coading languages
-- 📫 Instgram: hatimloha_
+- 🌱 I’m currently learning DevOps and coding languages
+- 📫 Instagram: hatimloha_
 
 <!---
 Hatimloha/Hatimloha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
