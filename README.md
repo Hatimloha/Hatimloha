@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hatim!
 
-I am a DevOps Engineer with a passion for automation and cloud technologies. With over two years of experience, I've worked extensively with tools like Kubernetes, Docker, Terraform, AWS, and more. I’ve created multiple repositories filled with DevOps scripts and projects that can be used for learning and practical implementation.
+I am a DevOps Engineer with a passion for automation and cloud technologies. I've worked extensively with tools like Kubernetes, Docker, Terraform, AWS, and more. I’ve created multiple repositories filled with DevOps scripts and projects that can be used for learning and practical implementation.
 
 ## Key Repositories:
 - **DevOps Scripts**: A collection of scripts for daily tasks, such as system monitoring, automated backups, log management, and service health checks.
