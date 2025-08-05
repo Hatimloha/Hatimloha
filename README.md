@@ -11,8 +11,7 @@
 **Backend**: Node.js, Express  
 **Database**: MongoDB, Mongoose  
 **Tools**: Git, GitHub/GitLab, Kubernetes, Docker, Jenkins, Linux, VS Code
-**Tools**: Git, GitHub/GitLab, Kubernetes, Docker, Jenkins, Linux, VS Code
-**Cloud**: Aws
+**Cloud**: Aws, Azure
 
 ## 📌 Highlight Projects
 - 🚧 [MERN Todo App](#)
