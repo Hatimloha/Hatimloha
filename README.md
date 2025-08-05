@@ -1,11 +1,25 @@
-# 👋 Hi, I'm Hatim!
+# 👋 Hi, I'm Hatim Lohawala
 
-I am a DevOps Engineer with a passion for automation and cloud technologies. I've worked extensively with tools like Kubernetes, Docker, Terraform, AWS, and more. I’ve created multiple repositories filled with DevOps scripts and projects that can be used for learning and practical implementation.
+🚀 Full Stack & DevOps Engineer  
+🧠 Currently mastering the MERN Stack  
+📦 Previously worked with CI/CD, Docker, Kubernetes, and cloud setups  
+💻 Building projects using React, Node.js, Express, MongoDB  
+📚 Passionate about writing clean, scalable code and learning new tech
 
-## Key Repositories:
-- **DevOps Scripts**: A collection of scripts for daily tasks, such as system monitoring, automated backups, log management, and service health checks.
-- **Terraform Projects**: Learn and apply Infrastructure-as-Code with my Terraform projects.
-- **Kubernetes Automation**: Automate your Kubernetes cluster tasks with these ready-to-use scripts.
-- **CI/CD Pipelines**: Explore Jenkins and GitHub Actions workflows for seamless code deployments.
+## 🧰 Tech Stack
+**Frontend**: React, HTML, CSS, Tailwind, JavaScript  
+**Backend**: Node.js, Express  
+**Database**: MongoDB, Mongoose  
+**Tools**: Git, GitHub, Docker, Jenkins, Linux, VS Code
 
-You can use these repositories to get hands-on experience and accelerate your learning in DevOps. Dive in, explore, and contribute!
+## 📌 Highlight Projects
+- 🚧 [MERN Todo App](#)
+- 🎮 [Game Selector using React](#)
+- 📝 [Feedback Box - React + Tailwind](#)
+- 🐳 [DevOps Project - Dockerized Web App](#)
+
+## 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hatimloha&theme=default)](https://github.com/Hatimloha)
+
+## 📫 Let's Connect
+[LinkedIn](#https://in.linkedin.com/in/hatimloha) • [Portfolio](#) • [Email](mailto:your@email.com)
