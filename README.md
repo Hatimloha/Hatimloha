@@ -22,4 +22,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hatimloha&theme=default)](https://github.com/Hatimloha)
 
 ## 📫 Let's Connect
-[LinkedIn](#https://in.linkedin.com/in/hatimloha) • [Portfolio](#) • [Email](mailto:your@email.com)
+[LinkedIn](https://in.linkedin.com/in/hatimloha) • [Portfolio](#) • [Email](mailto:your@email.com)
