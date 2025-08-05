@@ -2,7 +2,7 @@
 
 🚀 Full Stack & DevOps Engineer  
 🧠 Currently mastering the MERN Stack  
-📦 Previously worked with CI/CD, Docker, Kubernetes, and cloud setups  
+📦 Worked with CI/CD, Docker, Kubernetes, and cloud setups  
 💻 Building projects using React, Node.js, Express, MongoDB  
 📚 Passionate about writing clean, scalable code and learning new tech
 
