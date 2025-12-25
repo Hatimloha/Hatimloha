@@ -20,11 +20,7 @@
 
 ## 📈 GitHub Stats
 
-![Hatim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hatimloha&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatimloha&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hatimloha&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hatimloha&theme=default)](https://github.com/Hatimloha)
 
 ---
 
@@ -33,10 +29,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hatimloha&theme=minimal)
 
 ---
-
-## 🏆 GitHub Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Hatimloha&theme=flat&no-frame=true&row=1)
 
 ## 📫 Let's Connect
 [LinkedIn](https://in.linkedin.com/in/hatimloha) • [Portfolio](https://hatimloha.github.io/Portfolio/) • [Email](hatimloha52@gmail.com)
