@@ -16,6 +16,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatimloha&layout=compact&theme=ambient_gradient)
 
+<!-- 
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Hatimloha&theme=radical)
@@ -23,6 +24,7 @@
 ## 🔝 Top Contributed Repo
 
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Hatimloha&limit=5&combine_all_yearly_contributions=true)
+-->
 
 ## Profile Summary
 
