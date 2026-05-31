@@ -14,9 +14,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hatimloha&theme=ambient_gradient)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatimloha&layout=compact&theme=ambient_gradient)
 
 <!-- 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatimloha&layout=compact&theme=ambient_gradient)
+
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Hatimloha&theme=radical)
