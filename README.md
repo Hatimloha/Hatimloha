@@ -24,4 +24,8 @@
 
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Hatimloha&limit=5&combine_all_yearly_contributions=true)
 
+## Profile Summary
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hatimloha&theme=github_dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
