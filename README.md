@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Hatim Lohawala<br><br>🚀 Full Stack & DevOps Engineer  <br>🧠 Currently mastering the MERN Stack  <br>📦 Worked with CI/CD, Docker, Kubernetes, and cloud setups  <br>💻 Building projects using React, Node.js, Express, MongoDB  <br>📚 Passionate about writing clean, scalable code and learning new tech
+# 👋 Hi, I'm Hatim Lohawala<br><br>🚀 DevOps Engineer  <br>🧠 Public Learnig - DevOps  <br>📦 Worked with CI/CD, Docker, Kubernetes, and cloud setups  <br>💻 Building projects using React, Node.js, Express, MongoDB  <br>📚 Passionate about writing clean, scalable code and learning new tech
 
 
 ## 🌐 Socials:
