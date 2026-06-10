@@ -1,6 +1,11 @@
-# 💫 About Me:
-# 👋 Hi, I'm Hatim Lohawala<br><br>🚀 DevOps Engineer  <br>🧠 Public Learnig - DevOps  <br>📦 Worked with CI/CD, Docker, Kubernetes, and cloud setups  <br>💻 Building projects using React, Node.js, Express, MongoDB  <br>📚 Passionate about writing clean, scalable code and learning new tech
+💫 About Me
+👋 Hi, I'm Hatim Lohawala
 
+🚀 DevOps Engineer
+☁️ Focused on Cloud, Automation & Infrastructure
+🐳 Working with Docker, Kubernetes, CI/CD, Linux & Terraform
+📚 Learning and building DevOps projects continuously
+🌱 Currently learning DevOps publicly
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hatimloha/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hatimloha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hatimloha52@gmail.com) 
